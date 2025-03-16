@@ -29,7 +29,7 @@ This guide will help you test all endpoints for your Node.js, Express, and Mongo
 ```
 
 **Screenshot:** 
-![Get All Books](http://assets/images/readme/1-getallbooks.png?raw=true)
+![Get All Books](https://github.com/fawwazmw/bookshop-api/blob/main/assets/images/readme/1-getallbooks.png?raw=true)
 
 ## 2.Get Book by ISBN
 
@@ -48,7 +48,7 @@ This guide will help you test all endpoints for your Node.js, Express, and Mongo
 ```
 
 **Screenshot:**
-![Get All Books](http://assets/images/readme/2-gedetailsISBN.png?raw=true)
+![Get All Books](https://github.com/fawwazmw/bookshop-api/blob/main/assets/images/readme/2-gedetailsISBN.png?raw=true)
 
 ## 3.Get Books by Author
 
@@ -69,7 +69,7 @@ This guide will help you test all endpoints for your Node.js, Express, and Mongo
 ```
 
 **Screenshot:**
-![Get All Books](http://assets/images/readme/2-gedetailsISBN.png?raw=true)
+![Get All Books](https://github.com/fawwazmw/bookshop-api/blob/main/assets/images/readme/3-getbooksbyauthor.png?raw=true)
 
 ## 4.Get Books by Title
 
@@ -90,7 +90,7 @@ This guide will help you test all endpoints for your Node.js, Express, and Mongo
 ```
 
 **Screenshot:**
-![Get All Books](http://assets/images/readme/2-gedetailsISBN.png?raw=true)
+![Get All Books](https://github.com/fawwazmw/bookshop-api/blob/main/assets/images/readme/4-getbooksbytitle.png?raw=true)
 
 ## 5.Get Book Reviews
 
@@ -114,7 +114,7 @@ This guide will help you test all endpoints for your Node.js, Express, and Mongo
 ```
 
 **Screenshot:**
-![Get All Books](http://assets/images/readme/2-gedetailsISBN.png?raw=true)
+![Get All Books](https://github.com/fawwazmw/bookshop-api/blob/main/assets/images/readme/5-getbookreview.png?raw=true)
 
 ## 6.Register New User
 
@@ -143,7 +143,7 @@ This guide will help you test all endpoints for your Node.js, Express, and Mongo
 ```
 
 **Screenshot:**
-![Get All Books](http://assets/images/readme/2-gedetailsISBN.png?raw=true)
+![Get All Books](https://github.com/fawwazmw/bookshop-api/blob/main/assets/images/readme/6-register.png?raw=true)
 
 ## 7.Login
 
@@ -172,7 +172,7 @@ This guide will help you test all endpoints for your Node.js, Express, and Mongo
 ```
 
 **Screenshot:**
-![Get All Books](http://assets/images/readme/2-gedetailsISBN.png?raw=true)
+![Get All Books](https://github.com/fawwazmw/bookshop-api/blob/main/assets/images/readme/7-login.png?raw=true)
 
 **Important:** Save the token for the next tasks!
 
@@ -211,7 +211,7 @@ This guide will help you test all endpoints for your Node.js, Express, and Mongo
 ```
 
 **Screenshot:**
-![Get All Books](http://assets/images/readme/2-gedetailsISBN.png?raw=true)
+![Get All Books](https://github.com/fawwazmw/bookshop-api/blob/main/assets/images/readme/8-reviewadded.png?raw=true)
 
 ## 9.Delete a Book Review
 
@@ -239,47 +239,47 @@ This guide will help you test all endpoints for your Node.js, Express, and Mongo
 ```
 
 **Screenshot:**
-![Get All Books](http://assets/images/readme/2-gedetailsISBN.png?raw=true)
+![Get All Books](https://github.com/fawwazmw/bookshop-api/blob/main/assets/images/readme/9-deletereview.png?raw=true)
 
 ## 10.Get All Books Using Async Callback
 
 **Endpoint:** GET http://localhost:5000/api/books/async/books
 
 **Expected Response:**
-Same as Task 1
+Same as Point 1
 
 **Screenshot:**
-![Get All Books](http://assets/images/readme/2-gedetailsISBN.png?raw=true)
+![Get All Books](https://github.com/fawwazmw/bookshop-api/blob/main/assets/images/readme/10-getallbooks-async.png?raw=true)
 
 ## 11.Search by ISBN Using Promises
 
 **Endpoint:** GET http://localhost:5000/api/books/promise/isbn/9780451524935
 
 **Expected Response:**
-Same as Task 2
+Same as Point 2
 
 **Screenshot:**
-![Get All Books](http://assets/images/readme/2-gedetailsISBN.png?raw=true)
+![Get All Books](https://github.com/fawwazmw/bookshop-api/blob/main/assets/images/readme/11-gedetailsISBN-promises.png?raw=true)
 
 ## 12.Search by Author Using Promises
 
 **Endpoint:** GET http://localhost:5000/api/books/promise/author/Orwell
 
 **Expected Response:**
-Same as Task 3
+Same as Point 3
 
 **Screenshot:**
-![Get All Books](http://assets/images/readme/2-gedetailsISBN.png?raw=true)
+![Get All Books](https://github.com/fawwazmw/bookshop-api/blob/main/assets/images/readme/12-getbooksbyauthor-promises.png?raw=true)
 
 ## 13.Search by Title Using Promises
 
 **Endpoint:** GET http://localhost:5000/api/books/promise/title/1984
 
 **Expected Response:**
-Same as Task 4
+Same as Point 4
 
 **Screenshot:**
-![Get All Books](http://assets/images/readme/2-gedetailsISBN.png?raw=true)
+![Get All Books](https://github.com/fawwazmw/bookshop-api/blob/main/assets/images/readme/13-getbooksbytitle-promises.png?raw=true)
 
 ## Troubleshooting
 
