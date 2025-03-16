@@ -1,0 +1,33 @@
+{
+  "name": "coursera_express",
+  "version": "1.0.0",
+  "description": "This is a backend with Node.js & Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": "node scripts/seed.js",
+    "seed:overwrite": "node scripts/seed.js --overwrite",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "api",
+    "bookshop",
+    "rest",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "FWZ.dev",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.12.1",
+    "nodemon": "^3.1.9"
+  }
+}
